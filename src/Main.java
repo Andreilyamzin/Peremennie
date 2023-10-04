@@ -77,6 +77,7 @@ public class Main {
         var lessHours = 640 / moreStaff;
         System.out.println("Если в компании работает " + moreStaff + " человек, то между сотрудниками можно поделить " + lessHours + " часа(ов)" ) ;
 
+
     }
 
 }
